@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LAB_3.1</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome</string>
+    <string name="hi">hi</string>
+    <string name="hiW">Hi</string>
+    <string name="textview">TextView</string>
+    <string name="wrong">Wrong !!!</string>
+</resources>
